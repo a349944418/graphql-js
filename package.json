@@ -9,7 +9,6 @@
   ],
   "license": "BSD-3-Clause",
   "main": "index.js",
-  "homepage": "https://github.com/graphql/graphql-js",
   "bugs": {
     "url": "https://github.com/graphql/graphql-js/issues"
   },
